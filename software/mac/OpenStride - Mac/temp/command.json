@@ -1,0 +1,22 @@
+{
+  "type": "record",
+  "output_file_name": "finger trace",
+  "note": [
+    ""
+  ],
+  "output_folder": [
+    "F:\\figure\\figure 3"
+  ],
+  "auto_stop": {
+    "enabled": true,
+    "value": 5,
+    "unit": "minutes"
+  },
+  "discard": {
+    "enabled": false,
+    "value": 30,
+    "unit": "seconds"
+  },
+  "frequency": 125,
+  "animal": "Rat"
+}
