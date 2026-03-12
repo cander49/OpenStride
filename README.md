@@ -1,6 +1,10 @@
 # OpenStride 
 
-**This readme files for this github are currently under construction. All necessary files to build and operate OpenStride are present, but the readme files will be updated in the immediate future. When readme edits are completed, this message will be removed. In the meantime, for any questions related to installation please email collin (dot) anderson (at) sydney (dot) edu (dot) au.**  \
+**Note: the readme files for this github are currently under construction. All necessary files to construct and operate OpenStride are present, but the readme files will be updated in the immediate future. When readme edits are completed, this message will be removed. In the meantime, for any questions related to installation please email collin (dot) anderson (at) sydney (dot) edu (dot) au.**  \
+  \
+  \
+  \
+  \
   \
   \
   \
