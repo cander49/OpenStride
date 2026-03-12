@@ -54,18 +54,13 @@ Separate versions are provided for different operating systems:
 - 🪟 **[Windows Version](https://github.com/cander49/OpenStride/tree/main/software/windows)**
 - 🍎 **[macOS Version](https://github.com/cander49/OpenStride/tree/main/software/mac/OpenStride%20-%20Mac)**
 
-This section includes lists and guides for software: 
+This section includes an installation list of external software, packages and toolboxes: 
 
-- Installation list of external software
 - Python
 - Python Packages
 - Phidget22
 - MATLAB
 - MATLAB Toolboxes
-
----
-
-## Installation
 
 To ensure all dependencies are installed as the correct package version, run:
 
