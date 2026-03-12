@@ -76,4 +76,8 @@ python3 -m venv .venv # creating a virtual environment
 # .venv\Scripts\activate    # Windows
 pip install -r requirements.txt
 ```
+
 ---
+
+
+## Using OpenStride
