@@ -68,15 +68,11 @@ To ensure all dependencies are installed as the correct package version, run:
 pip install -r requirements.txt
 ```
 
----
-
-## Virtual environment
-
-If any dependency issues occur, consider using a virtual environment to isolate project dependencies:
-
+Further to this, if any dependeny issues are occurring, consider using a virtual environment to isolate project dependencies, run:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate   # macOS / Linux
 # .venv\Scripts\activate    # Windows
 pip install -r requirements.txt
 ```
+---
