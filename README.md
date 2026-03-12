@@ -25,7 +25,7 @@ This folder contains the STL and SVG files for creating the platform that will *
 
 All assembly instructions, required files, and hardware documentation can be found here:
 
-➡️ **[Hardware Assembly Guide]((https://github.com/cander49/OpenStride/tree/main/hardware))**
+➡️ **[Hardware Assembly Guide](https://github.com/cander49/OpenStride/tree/main/hardware)**
 
 This section includes:
 
