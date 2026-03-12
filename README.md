@@ -62,16 +62,17 @@ This section includes an installation list of external software, packages and to
 - MATLAB
 - MATLAB Toolboxes
 
-To ensure all dependencies are installed as the correct package version, run:
+To ensure all dependencies are installed as the correct package version, run in the terminal in the same directory as OpenStride:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Further to this, if any dependeny issues are occurring, consider using a virtual environment to isolate project dependencies, run:
+Further to this, if any dependeny issues are occurring, consider using a virtual environment to isolate project dependencies, run in the terminal in the same directory as OpenStride:
+
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate   # macOS / Linux
+python3 -m venv .venv # creating a virtual environment
+# source .venv/bin/activate   # macOS
 # .venv\Scripts\activate    # Windows
 pip install -r requirements.txt
 ```
