@@ -203,12 +203,12 @@ Each sensor has a **4-wire cable**. Connect each wire to its correct terminal on
 
 Connect each sensor to its corresponding **Port** on the PhidgetBridge, in the order below. The port number must match the physical corner of the device:
 
-| Port | Corner position |
-|------|----------------|
-| Port 0 | Corner 0 | Bottom Right
-| Port 1 | Corner 1 | Upper Right
-| Port 2 | Corner 2 | Upper Left
-| Port 3 | Corner 3 | Bottom Left
+| Port | Corner position | Location |
+|------|----------------|------|
+| Port 0 | Corner 0 | Bottom Right |
+| Port 1 | Corner 1 | Upper Right |
+| Port 2 | Corner 2 | Upper Left |
+| Port 3 | Corner 3 | Bottom Left |
 
 > ⚠️ **Do not swap ports between corners.** Misconnection will cause incorrect data mapping and may damage the load cells.
 
