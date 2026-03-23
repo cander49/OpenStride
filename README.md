@@ -406,6 +406,11 @@ All generated figures, tables, and result files will be automatically saved in t
 
 ---
 
+### Additional Notes
+
+Please note that load cells in this design are rated for 300 grams per cell. With an overload of more than 300 grams on a single cell, a temporary, small degreee of accuracy loss will occur, and if more than 750 grams is applied to a single cell, it is likely irreperable damage will likely occur, in which case that load cell will need to be replaced. We recommend that rats used are not greater than 500 grams, and in the future, we will update with additional optimisation approaches in a species-specific manner.
+
+---
 
 ****
 
