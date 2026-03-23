@@ -130,7 +130,7 @@ This button allows users to switch between:
 - **Recording Mode (default)**
 - **Analysis Mode**
 
-You can switch between these modes **at any time**.  
+You can switch between these modes at any time.
 All settings and text entries made in either mode will **remain saved unless the UI is closed**.
 
 ---
@@ -138,19 +138,19 @@ All settings and text entries made in either mode will **remain saved unless the
 ### Calibration
 
 
-Calibration is required under the following circumstances:
+Calibration lasts 30 seconds and is required under the following circumstances:
 
 - When using OpenStride on **a newly installed computer**
 - When the **OpenStride software has been freshly installed**
 - When the **OpenStride hardware setup has been moved**
-- When using **a new force plate**
+- When using **any new hardware**.
 - When using **a different experimental setup**
 
 <img width="1788" height="1462" alt="image" src="https://github.com/user-attachments/assets/88e1d7ac-e662-4a15-a615-10caa15adb97" />
 
 If the plate and setup **have not been moved or modified**, calibration **does not need to be performed before every recording session**.
 
-However, to ensure **maximum accuracy of trajectory data**, calibration is strongly recommended whenever any of the above changes occur. If commencing with calibration, ensure that no animal or object is placed on OpenStride. Further, ensure that the surface that OpenStride is ontop of is not disturbed during calibration.
+However, to ensure **maximum accuracy of trajectory data**, calibration is strongly recommended whenever any of the above changes occur. If commencing with calibration, ensure that no animal or object is placed on OpenStride for the duration of the calibration. Further, ensure that the surface that OpenStride is ontop of is not disturbed during calibration.
 
 
 ---
@@ -227,7 +227,7 @@ Users can select the experimental animal:
 
 In the current version of OpenStride, this option is used **only for experimental metadata storage**.
 
-However, this setting may become important in future versions as additional analysis algorithms are implemented.  
+However, this setting will be used in future iterations as additional analyses are implemented, for example, grooming detection based on prior publication from Anderson et al: https://www.sciencedirect.com/science/article/pii/S0165027023002455
 
 ---
 
