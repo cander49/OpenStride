@@ -1,5 +1,8 @@
 # OpenStride
 
+<img width="2130" height="1346" alt="OpenStride" src="https://github.com/user-attachments/assets/b32b1c9a-2b15-4fda-b2b2-499190f9939b" />
+
+
 **Note: the readme files for this github are currently under construction. All necessary files to construct and operate OpenStride are present, but the readme files will be updated in the immediate future. When readme edits are completed, this message will be removed. In the meantime, for any questions related to installation please email collin.anderson@sydney.edu.au **  \
   \
   \
@@ -11,9 +14,9 @@
   \
   \
   \
-Welcome to **OpenStride**, an open-source platform that integrates both **hardware and software** for rodent behaviour recording and analysis using a force-plate actometer system. **Please read the following to ensure smooth installation of OpenStride; otherwise, problems may ensue**. 
+Welcome to **OpenStride**, an open-source platform that integrates both **hardware and software** for rodent behaviour recording and analysis using a force-plate actometer system. **Importantly, please read the following to ensure smooth installation of OpenStride.**. 
 
-OpenStride is designed to provide a **low-cost, accessible, and reproducible** solution for laboratories studying locomotor and other behaviours. OpenStride was created by Collin Anderson's Laboratory in the School of Medical Sciences, The University of Sydney Faculty of Medicine and Health. For further technical detail please refer to the publication:
+OpenStride is designed to provide a **low-cost, accessible, and reproducible** solution for laboratories studying locomotor and other behaviours. OpenStride was created by Collin Anderson's Laboratory in the School of Medical Sciences, The University of Sydney Faculty of Medicine and Health, with particular leadership by Biomedical Engineering MPhil student Yang Yang. For further technical detail please refer to the publication:
 
 Yang et al. (2025). *OpenStride: an inexpensive, open-source force plate actometry system for quantification of rodent motor activity and behaviour.* bioRxiv. https://doi.org/10.64898/2025.12.17.695041 \
 **Manuscript has been accepted for publication by Scientific Reports, and link will be updated when published.**
@@ -32,6 +35,8 @@ Further information about each folder is below.
 ---
 
 ## Hardware
+
+<img width="891" height="652" alt="Screenshot 2026-03-23 at 9 20 32 pm" src="https://github.com/user-attachments/assets/a9f841d2-be26-4136-9f0e-941bac1cbde3" />
 
 This folder contains the STL and SVG files for creating the platform that will **collect behavioural data**. Hardware Assembly Guide contains a walkthrough for the fabrication and assembly of the OpenStride system.
 
@@ -58,6 +63,8 @@ The Hardware Assembly Guide includes:
 ---
 
 ## Software
+
+<img width="601" height="457" alt="Screenshot 2026-03-23 at 9 23 28 pm" src="https://github.com/user-attachments/assets/8647125d-7396-4dab-a8d4-2ab9d0fe97d4" />
 
 This folder contains operating system dependent downloads, for MacOS and Windows. The programs within these folders require careful installation of various programs, ensure that you read through the Software Installation Guide. The OpenStride Software will be required for **recording data**, as well as the **processing of and analysing behavioural data**.
 
@@ -411,6 +418,8 @@ All generated figures, tables, and result files will be automatically saved in t
 Please note that load cells in this design are rated for 300 grams per cell. With an overload of more than 300 grams on a single cell, a temporary, small degreee of accuracy loss will occur, and if more than 750 grams is applied to a single cell, it is likely irreperable damage will likely occur, in which case that load cell will need to be replaced. We recommend that rats used are not greater than 500 grams, and in the future, we will update with additional optimisation approaches in a species-specific manner.
 
 ---
+
+<img width="488" height="449" alt="Screenshot 2026-03-23 at 9 24 24 pm" src="https://github.com/user-attachments/assets/f8606d76-46bc-49ce-aee8-c74b3d08b062" />
 
 ****
 
