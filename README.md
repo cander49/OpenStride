@@ -7,12 +7,6 @@
   \
   \
   \
-  \
-  \
-  \
-  \
-  \
-  \
 Welcome to **OpenStride**, an open-source platform that integrates both **hardware and software** for rodent behaviour recording and analysis using a force-plate actometer system. **Importantly, please read the following to ensure smooth installation of OpenStride.**. 
 
 OpenStride is designed to provide a **low-cost, accessible, and reproducible** solution for laboratories studying locomotor and other behaviours. OpenStride was created by Collin Anderson's Laboratory in the School of Medical Sciences, The University of Sydney Faculty of Medicine and Health, with particular leadership by Biomedical Engineering MPhil student Yang Yang. For further technical detail please refer to the publication:
